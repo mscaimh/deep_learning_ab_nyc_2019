@@ -1,0 +1,14 @@
+# Raw input data
+input/
+
+# Saved model & scaler binaries
+*.pth
+*.pkl
+
+# Excel temp files
+~$*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
